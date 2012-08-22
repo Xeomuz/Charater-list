@@ -1,0 +1,6 @@
+fixing sex position
+male = -2 y axis
+	-0.3 z axis
+
+female = 5 x axis
+	 2 z axisgx
