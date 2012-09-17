@@ -1,0 +1,24 @@
+######################BEGIN######################
+Scaling export by a value of 6.99 to fit MD3 space
+Converted quads in UV map of dizzyanimating2 to tris.
+Exporting UV texture coordinates for dizzyanimating2
+Exporting dizzyanimating2
+Header Information
+Ident: IDP3
+Version: 15
+Name: 
+Flags: 0
+Number of Frames: 44
+Number of Tags: 0
+Number of Surfaces: 1
+Number of Skins: 0
+Offset Frames: 108
+Offset Tags: 2572
+Offset Surfaces: 2572
+Offset end: 2002848
+Total Shaders: 1
+Total Triangles: 5545
+Total Vertices: 5371
+MD3 saved to E:\All Project\Charater-list\Character Done\Dizzy (old version)\Model\Dizzyrender17912.md3
+Elapsed 29.00186 seconds
+Scaled export by a value of 6.99 to fit MD3 space

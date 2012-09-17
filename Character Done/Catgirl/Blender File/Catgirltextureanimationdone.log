@@ -1,0 +1,25 @@
+######################BEGIN######################
+Scaling export by a value of 2.78 to fit MD3 space
+Exporting UV texture coordinates for HotPantu
+Exporting HotPantu
+Header Information
+Ident: IDP3
+Version: 15
+Name: 
+Flags: 0
+Number of Frames: 71
+Number of Tags: 0
+Number of Surfaces: 1
+Number of Skins: 0
+Offset Frames: 108
+Offset Tags: 4084
+Offset Surfaces: 4084
+Offset end: 12326160
+!Warning: Vertex limit (20761/8192) reached for surface HotPantu
+!Warning: Triangle limit (30297/16384) reached for surface HotPantu
+Total Shaders: 1
+Total Triangles: 30297
+Total Vertices: 20761
+MD3 saved to E:\All Project\Charater-list\Character Done\Catgirl\Blender File\Catgirltextureanimationdone.md3
+Elapsed 298.17125 seconds
+Scaled export by a value of 2.78 to fit MD3 space
