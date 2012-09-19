@@ -1,0 +1,22 @@
+How To Convert Anime 3DCG Character into MD3
+
+1. Make your own custom character using 3D custom girl
+2. Make a Hard save of your Character by pressing Ctrl+save
+3. Open TDCGExplorer and update your Database
+4. Load your HardSaves model from Savefile tab
+5. Click any tab(Example A:body). right click and press "make TAH file"
+6. There will be a new Tab. Right click the content of the tab and press compose TAH file from the selected file
+7. Zip the TAH file
+8. Update your Database again.
+9. Open Archive and point it into your TAH file that you just created
+10. Extract the TAH file.
+11. I recommend to use Blender 24.9b to load the file and use XPC01974 for Blender Plugin
+12. Import the .tso file from the extracted file one by one and put texture on it too
+13. Armature should be only load once
+14. Rotate the model from top -90 degree
+15. After all the Mesh have been put Texture. Make a copy of Armature by pressing shift+D
+16. Insert both Armature with LOCROT
+17. Attach the original Armature with the mesh
+18 Apply pose as rest pose
+
+

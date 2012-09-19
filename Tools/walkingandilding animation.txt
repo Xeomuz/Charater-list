@@ -1,0 +1,27 @@
+1. frame 1
+2. frame 10
+3. frame 20
+4. frame 30
+5. frame 40
+6. frame 50
+7. frame 60
+8. frame 70
+9. frame 80
+10. frame 90
+11. frame 100
+12. frame 110
+13. frame 120
+14. frame 130
+
+Running
+
+15. frame 1
+16. frame 5
+17. frame 10
+18. frame 15
+19. frame 20
+20. frame 25
+21. frame 30
+22. frame 35
+23. frame 40
+24. frame 45
