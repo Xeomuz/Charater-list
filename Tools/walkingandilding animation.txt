@@ -25,3 +25,12 @@ Running
 22. frame 35
 23. frame 40
 24. frame 45
+
+Recoil
+
+25.
+26.
+27.
+28.
+29.
+30.
