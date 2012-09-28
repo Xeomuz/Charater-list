@@ -34,3 +34,12 @@ Recoil
 28.
 29.
 30.
+
+crouching Aim idle
+
+31. frame 1
+32. frame 50
+33. frame 100
+34. frame 150
+
+
