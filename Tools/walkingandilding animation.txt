@@ -42,4 +42,28 @@ crouching Aim idle
 33. frame 100
 34. frame 150
 
+moving crouching
+35-40
+
+Possible animations are:
+
+  Idle				Player is standing around doing nothing.
+  Running			Player is running.
+  Attacking			Player is attacking but not currently firing.
+  Firing			Player is attacking and currently firing.
+  Climbing			Player is climbing a ladder.
+  Crouching			Player is crouching but not moving.
+  Crawling			Player is crawling around.
+  JumpUp			Player is jumping.
+  Falling			Player is falling.
+  Landing			Player just hit the ground after falling.
+  Swimming			Player is swimming in water.
+  Death				Player died normally.
+  ExtremeDeath		Player died violently.
+  BurnDeath			Player was burnt to death.
+  FreezeDeath		Player was frozen to death.
+  HeadFlying		Player's head after popping off body.
+  HeadOnGround		Player's head after landing on ground.
+
+*/
 
